@@ -10,5 +10,5 @@ Après processing des données, le mapping a été réalisé sur kibana car reli
 cependant nous n'avons pas pu exporter les maps par manque de ram sur notre VM dédiée (gratuite
 donc peu puissante). Des screenshots de la map sont disponibles dans la présentation en PDF.
 
-
+Vous pouvez avoir un "aperçu" du fichier geojson en cliquant dessus. 
 
